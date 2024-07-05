@@ -1,0 +1,1 @@
+python binance scalping bot using bollinger band strategy
